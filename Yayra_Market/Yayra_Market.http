@@ -1,0 +1,6 @@
+@Yayra_Market_HostAddress = http://localhost:5100
+
+GET {{Yayra_Market_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
